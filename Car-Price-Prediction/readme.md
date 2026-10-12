@@ -34,9 +34,6 @@ The project demonstrates an end-to-end Machine Learning workflow, including data
 ## 📊 Model Evaluation
 
 Model performance can be evaluated using regression metrics such as:
-
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
 - R² Score
 
 An actual-versus-predicted scatter plot is also used to visualize how closely the predictions match the actual prices.
@@ -81,7 +78,6 @@ Car-Price-Prediction/
 └── README.md
 ```
 
-*Update the filenames above to match the actual files in your repository.*
 
 ## 🔮 Future Improvements
 
@@ -90,9 +86,6 @@ Car-Price-Prediction/
 - Perform hyperparameter tuning.
 - Develop a web application for interactive car price predictions.
 
-## 📚 Reference
-
-[Car Price Prediction Using Machine Learning with Python — YouTube Tutorial](https://youtu.be/L3OtLaCbJC8)
 
 ## 👩‍💻 Author
 
