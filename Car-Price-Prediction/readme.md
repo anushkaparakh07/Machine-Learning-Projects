@@ -73,9 +73,11 @@ Open the project notebook and execute the cells in sequence. Ensure the dataset 
 
 ```text
 Car-Price-Prediction/
-├── car_price_prediction.ipynb
+├── .gitignore
+├── Car Price Prediction.ipynb
 ├── car data.csv
-└── README.md
+├── readme.md
+└── requirements.txt
 ```
 
 
