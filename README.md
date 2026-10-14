@@ -9,7 +9,7 @@ The goal of this repository is to strengthen my understanding of machine learnin
 | Project | Description | Techniques |
 |---|---|---|
 | [Car Price Prediction](./Car-Price-Prediction/) | Predicts car prices based on relevant vehicle features. | Data preprocessing, regression, model evaluation |
-| [Diabetes Prediction](./Diabetes Prediction/) | Predicts the likelihood of diabetes using patient health-related features. | Exploratory Data Analysis, feature scaling, K-Nearest Neighbors (KNN), classification metrics |
+| [Diabetes Prediction](./Diabetes-Prediction/) | Predicts the likelihood of diabetes using patient health-related features. | Exploratory Data Analysis, feature scaling, K-Nearest Neighbors (KNN), classification metrics |
 
 
 
