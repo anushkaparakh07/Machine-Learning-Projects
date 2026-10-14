@@ -9,10 +9,10 @@ The goal of this repository is to strengthen my understanding of machine learnin
 | Project | Description | Techniques |
 |---|---|---|
 | [Car Price Prediction](./Car-Price-Prediction/) | Predicts car prices based on relevant vehicle features. | Data preprocessing, regression, model evaluation |
-| [Diabetes Prediction](./Diabetes-Prediction/) | Predicts the likelihood of diabetes using patient health-related features. | Exploratory Data Analysis, feature scaling, K-Nearest Neighbors (KNN), classification metrics |
-| [Rock vs Mine Prediction](./Rock-vs-Mine-Prediction/) | Classifies sonar signal data into rocks or mines. | Data preprocessing, classification, model evaluation |
+| [Diabetes Prediction](./Diabetes Prediction/) | Predicts the likelihood of diabetes using patient health-related features. | Exploratory Data Analysis, feature scaling, K-Nearest Neighbors (KNN), classification metrics |
 
-*Note: Project links will work once the corresponding folders are created with these exact names. Update the descriptions and techniques to match each project's actual implementation.*
+
+
 
 ## 🛠️ Technologies & Tools
 
