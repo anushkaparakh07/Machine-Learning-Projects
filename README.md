@@ -50,8 +50,8 @@ Machine-Learning-Projects/
 │   ├── readme.md
 │   ├── Car Price Prediction.ipynb
 │   └── requirements.txt
-│    └── .gitignore
-│    └── car data.csv
+│   └── .gitignore
+│   └── car data.csv
 ├── Diabetes-Prediction/
 │   ├── README.md
 │   ├── Diabetes Prediction.ipynb
@@ -61,7 +61,7 @@ Machine-Learning-Projects/
 
 ```
 
-*The structure above is illustrative. Your actual repository may contain additional files, such as datasets, Python scripts, or model artifacts.*
+
 
 ## 👩‍💻 About Me
 
