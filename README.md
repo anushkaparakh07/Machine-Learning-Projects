@@ -47,17 +47,18 @@ The goal of this repository is to strengthen my understanding of machine learnin
 Machine-Learning-Projects/
 ├── README.md
 ├── Car-Price-Prediction/
-│   ├── README.md
-│   ├── car_price_prediction.ipynb
+│   ├── readme.md
+│   ├── Car Price Prediction.ipynb
 │   └── requirements.txt
+│    └── .gitignore
+│    └── car data.csv
 ├── Diabetes-Prediction/
 │   ├── README.md
-│   ├── Diabetes_Prediction.ipynb
+│   ├── Diabetes Prediction.ipynb
 │   └── requirements.txt
-└── Rock-vs-Mine-Prediction/
-    ├── README.md
-    ├── rock_vs_mine.ipynb
-    └── requirements.txt
+│   └── .gitignore
+│   └── .pima-indians-diabetes.csv
+
 ```
 
 *The structure above is illustrative. Your actual repository may contain additional files, such as datasets, Python scripts, or model artifacts.*
