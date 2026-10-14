@@ -154,7 +154,7 @@ Actual scores should be recorded here after running the notebook and verifying t
 
 **Anushka Parakh**
 
-GitHub: [Add your GitHub profile URL here](https://github.com/)
+GitHub: (https://github.com/anushkaparakh07/)
 
 ---
 
